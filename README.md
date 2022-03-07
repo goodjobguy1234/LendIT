@@ -28,8 +28,29 @@ using MERN according to the following:
 
 https://github.com/goodjobguy1234/LendItApi
 
-## For LendIT React Application
+for api documentation please visit: https://lent-it-api.herokuapp.com/api-docs/
 
+
+## For LendIT React Application
+Go to link
 https://github.com/greatkub/TermprojectWeb2
 
+sign in account using username and password as following, try to play around posting item and lender other stuff. 
+but taking important here, 
+
+ `All Item being borrowed will request for owner acceptance. So, you have to login to borrow some item then logout to login another id to accept the request to success the borrowing process`
+
+### Username and Password
+    username: 6210015
+    password: 1234567
+
+    username: 6110155
+    password: 1234567
+
+    username: 6310023
+    password: 1234567
+
+
+
+    
 
