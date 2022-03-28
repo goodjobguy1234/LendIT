@@ -35,6 +35,8 @@ for api documentation please visit: https://lent-it-api.herokuapp.com/api-docs/
 Go to link
 https://github.com/greatkub/TermprojectWeb2
 
+app demo: https://lendit-app.herokuapp.com/lendit
+
 sign in account using username and password as following, try to play around posting item and lender other stuff. 
 but taking important here, 
 
@@ -50,6 +52,9 @@ but taking important here,
     username: 6310023
     password: 1234567
 
+
+## Demo Presentation
+https://www.youtube.com/watch?v=C5q84eOIpKw
 
 
     
