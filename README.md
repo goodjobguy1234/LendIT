@@ -26,16 +26,18 @@ using MERN according to the following:
 # Project Link
 ## For LendIT API 
 
-https://github.com/goodjobguy1234/LendItApi
+Github Repo: https://github.com/goodjobguy1234/LendItApi
 
 for api documentation please visit: https://lent-it-api.herokuapp.com/api-docs/
 
 
 ## For LendIT React Application
-Go to link
-https://github.com/greatkub/TermprojectWeb2
+Github Repo: https://github.com/greatkub/TermprojectWeb2
+
+### *** Remind that for React app; in case, using free tier to deploy. you will run to request time error everytime you first run the app (after heroku sleep). Please refresh web page one times after heroku errors web page pop up. ***
 
 app demo: https://lendit-app.herokuapp.com/lendit
+alternative app demo: https://lent-it-app.herokuapp.com/lendit
 
 sign in account using username and password as following, try to play around posting item and lender other stuff. 
 but taking important here, 
